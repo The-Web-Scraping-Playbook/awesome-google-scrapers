@@ -27,10 +27,9 @@ Perfect for:
 - [Featured Scrapers](#featured-google-scrapers)
 - [Scrapers By Language](#google-scrapers-by-language)
 - [Need Rotating Proxies or CAPTCHA Solving for Google](#rotating-proxies-or-captcha-solving-for-google)
-- [Google Tutorials & How-Tos](google-tutorials)
+- [Google Tutorials & How-Tos](#google-tutorials)
 - [Contributing](#contributing)
 - [Compare Proxy Providers](#compare-proxies)
-- [Resources](#resources)
 
 ---
 
@@ -48,12 +47,6 @@ Perfect for:
 ---
 
 ## 🧑‍💻 Google Scrapers By Language <a id="google-scrapers-by-language"></a>
-
-### 
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) | ⭐ 1507 | 2025-04-26 | — | ✅ Yes |
-
 
 ### Go
 | Name | Stars | Last Updated | Library | Maintained |
@@ -111,6 +104,12 @@ Perfect for:
 | [googlenews-scraper](https://github.com/HamzehJaafar/googlenews-scraper) | ⭐ 8 | 2020-04-02 | — | ✅ Yes |
 | [news-sentiment](https://github.com/austince/news-sentiment) | ⭐ 7 | 2018-04-21 | — | ✅ Yes |
 
+
+### Unknown
+| Name | Stars | Last Updated | Library | Maintained |
+|------|-------|--------------|---------|------------|
+| [google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) | ⭐ 1507 | 2025-04-26 | — | ✅ Yes |
+
 ---
 
 ## 🔐 Need Rotating Proxies or CAPTCHA Solving for Google?<a id="rotating-proxies-or-captcha-solving-for-google"></a>
@@ -123,7 +122,7 @@ Perfect for:
 - Automatically rotate and retry failed requests  
 - Reduce ban rate and increase success on Google
 
-🎁 **Get 1M free credits** to test your Google scraper 👉 [Start here](https://scrapeops.io)
+🎁 **Get 1000 free credits** to test your Google scraper 👉 [Start here](https://scrapeops.io)
 
 ---
 
@@ -155,5 +154,9 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 ## 🏷 Tags
 Google scraper, web scraping, google API, python scraper, playwright, data scraping, anti-bot, github, open-source google crawler, ScrapeOps
 
+
+---
+
+🎁 **Get 1000 free credits** to test your Google scraper 👉 [Start here](https://scrapeops.io)
 
 ---
