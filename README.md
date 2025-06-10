@@ -23,7 +23,18 @@ Perfect for:
 
 ---
 
-## 📦 Featured Scrapers
+## 📑 Quick Index
+- [Featured Scrapers](#featured-google-scrapers)
+- [Scrapers By Language](#google-scrapers-by-language)
+- [Need Rotating Proxies or CAPTCHA Solving for Google](#rotating-proxies-or-captcha-solving-for-google)
+- [Google Tutorials & How-Tos](google-tutorials)
+- [Contributing](#contributing)
+- [Compare Proxy Providers](#compare-proxies)
+- [Resources](#resources)
+
+---
+
+## 📦 Featured Scrapers <a id="featured-google-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
 | Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
@@ -36,7 +47,7 @@ Perfect for:
 
 ---
 
-## 🧑‍💻 Scrapers By Language
+## 🧑‍💻 Google Scrapers By Language <a id="google-scrapers-by-language"></a>
 
 ### 
 | Name | Stars | Last Updated | Library | Maintained |
@@ -102,7 +113,7 @@ Perfect for:
 
 ---
 
-## 🔐 Need Rotating Proxies or CAPTCHA Solving for Google?
+## 🔐 Need Rotating Proxies or CAPTCHA Solving for Google?<a id="rotating-proxies-or-captcha-solving-for-google"></a>
 
 > Google uses aggressive anti-bot tech (CAPTCHAs, IP bans, JS challenges).  
 > If your Google scraper fails, it's not the code — it's the infrastructure.
@@ -112,37 +123,37 @@ Perfect for:
 - Automatically rotate and retry failed requests  
 - Reduce ban rate and increase success on Google
 
-🎁 **Get 1M free credits** to test your scraper 👉 [Start here](https://scrapeops.io)
+🎁 **Get 1M free credits** to test your Google scraper 👉 [Start here](https://scrapeops.io)
 
 ---
 
-## 🧠 Tutorials & How-Tos
+## 🧠 Google Tutorials & How-Tos<a id="google-tutorials"></a>
 - 📘 [How to Scrape Google at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-google/)
-- 🔐 [Bypassing Google Bot Protection](https://scrapeops.io/web-scraping-playbook/anti-bot-strategies/)
-- 🧪 [How to Use ScrapeOps with Playwright](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/playwright/)
+- 🔐 [Web Scraping Google Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
+- 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/proxy-aggregator/overview/)
 
 ---
 
-## 📈 Contributing
-Got a scraper to add?  
-- Fork the repo  
-- Add to scrapers.json
-- Submit a PR  
+## 📈 Contributing<a id="contributing"></a>
 
-We update this list every month. All contributions welcome!
+Know a Google scraper we missed? Want us to include your project?
+
+- Click **[New Issue](../../issues/new)** on this repo
+- Include the GitHub URL, language, and brief description
+- We’ll validate and include it in the next update
+
+All contributions welcome! We'll vet and include approved scrapers in the next update.
 
 ---
 
-## 📣 Stay Updated
-Want more high-signal web scraping insights?
+## 📣 Want to Compare Proxies?<a id="compare-proxies"></a>
 
-> 📰 [**The Web Scraping Insider**](https://scrapeops.io/newsletter) – A weekly newsletter with no fluff, just tactical scraping strategies.
+> 📰 Use our [**Proxy Comparison Tool**](https://scrapeops.io/proxy-providers/comparison/) to benchmark proxy providers based on Price, IP, Bandwithdh & Pages.
 
 ---
 
 ## 🏷 Tags
-Google scraper, web scraping, python scraper, playwright, data scraping, anti-bot, open source, github, scrapeops
+Google scraper, web scraping, google API, python scraper, playwright, data scraping, anti-bot, github, open-source google crawler, ScrapeOps
+
 
 ---
-
-```
