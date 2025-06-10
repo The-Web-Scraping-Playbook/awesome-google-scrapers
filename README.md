@@ -129,7 +129,7 @@ Perfect for:
 ## 🧠 Google Tutorials & How-Tos<a id="google-tutorials"></a>
 - 📘 [How to Scrape Google at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-google/)
 - 🔐 [Web Scraping Google Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
-- 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/proxy-aggregator/overview/)
+- 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
 ---
 
