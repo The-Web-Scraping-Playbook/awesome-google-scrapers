@@ -24,9 +24,9 @@ Perfect for:
 ---
 
 ## 🧠 Google OpsKit
-> Find out everything you need to know to reliably scrape Google with our new tool: [ScrapeOps Website Tool](https://scrapeops.io/websites/google)
+> Find out everything you need to know to reliably scrape Google with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/google)
 
-This tool provides:
+This kit provides the blueprint for Google scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
