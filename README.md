@@ -36,11 +36,11 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-google-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) ![img](https://github.com/NikolaiT.png?size=20) | html | ⭐ 2686 | ❌ No | 2021-07-03 | 🚫 |
-| [google-play-scraper](https://github.com/facundoolano/google-play-scraper) ![img](https://github.com/facundoolano.png?size=20) | javascript | ⭐ 2474 | ✅ Yes | 2025-02-18 | ✅ |
-| [google-maps-scraper](https://github.com/gosom/google-maps-scraper) ![img](https://github.com/gosom.png?size=20) | go | ⭐ 1711 | ✅ Yes | 2025-05-03 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) ![img](https://github.com/NikolaiT.png?size=20) | html | ⭐ 2686 | ❌ No | 2021-07-03 |
+| [google-play-scraper](https://github.com/facundoolano/google-play-scraper) ![img](https://github.com/facundoolano.png?size=20) | javascript | ⭐ 2474 | ✅ Yes | 2025-02-18 |
+| [google-maps-scraper](https://github.com/gosom/google-maps-scraper) ![img](https://github.com/gosom.png?size=20) | go | ⭐ 1711 | ✅ Yes | 2025-05-03 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
@@ -64,27 +64,27 @@ Perfect for:
 ### Jupyter Notebook
 | Name | Stars | Last Updated | Library | Maintained |
 |------|-------|--------------|---------|------------|
-| [GoogleNewsScraper](https://github.com/aeleraqi/GoogleNewsScraper) | ⭐ 6 | 2024-10-15 | — | ✅ Yes |
+| [GoogleNewsScraper](https://github.com/aeleraqi/GoogleNewsScraper) | ⭐ 6 | 2024-10-15 | — | ❌ No |
 
 
 ### Node.js
 | Name | Stars | Last Updated | Library | Maintained |
 |------|-------|--------------|---------|------------|
 | [google-play-scraper](https://github.com/facundoolano/google-play-scraper) | ⭐ 2474 | 2025-02-18 | — | ✅ Yes |
-| [google-play-api](https://github.com/facundoolano/google-play-api) | ⭐ 354 | 2024-12-06 | — | ✅ Yes |
+| [google-play-api](https://github.com/facundoolano/google-play-api) | ⭐ 354 | 2024-12-06 | — | ❌ No |
 | [scraper](https://github.com/mnmldave/scraper) | ⭐ 344 | 2010-12-10 | — | ❌ No |
-| [google-this](https://github.com/LuanRT/google-this) | ⭐ 329 | 2024-09-22 | — | ✅ Yes |
+| [google-this](https://github.com/LuanRT/google-this) | ⭐ 329 | 2024-09-22 | — | ❌ No |
 | [google-news-scraper](https://github.com/lewisdonovan/google-news-scraper) | ⭐ 291 | 2025-01-21 | — | ✅ Yes |
-| [serp](https://github.com/christophebe/serp) | ⭐ 107 | 2023-06-13 | — | ✅ Yes |
-| [node-google-search-scraper](https://github.com/thibauts/node-google-search-scraper) | ⭐ 91 | 2019-10-23 | — | ✅ Yes |
-| [gnews-scraper](https://github.com/dstark5/gnews-scraper) | ⭐ 10 | 2023-08-19 | — | ✅ Yes |
-| [GoogleFinanceAPI](https://github.com/Verdenroz/GoogleFinanceAPI) | ⭐ 7 | 2024-12-10 | — | ✅ Yes |
+| [serp](https://github.com/christophebe/serp) | ⭐ 107 | 2023-06-13 | — | ❌ No |
+| [node-google-search-scraper](https://github.com/thibauts/node-google-search-scraper) | ⭐ 91 | 2019-10-23 | — | ❌ No |
+| [gnews-scraper](https://github.com/dstark5/gnews-scraper) | ⭐ 10 | 2023-08-19 | — | ❌ No |
+| [GoogleFinanceAPI](https://github.com/Verdenroz/GoogleFinanceAPI) | ⭐ 7 | 2024-12-10 | — | ❌ No |
 
 
 ### Php
 | Name | Stars | Last Updated | Library | Maintained |
 |------|-------|--------------|---------|------------|
-| [google-scraper](https://github.com/samaybhavsar/google-scraper) | ⭐ 36 | 2020-05-10 | — | ✅ Yes |
+| [google-scraper](https://github.com/samaybhavsar/google-scraper) | ⭐ 36 | 2020-05-10 | — | ❌ No |
 
 
 ### Python
@@ -96,13 +96,13 @@ Perfect for:
 | [goop](https://github.com/s0md3v/goop) | ⭐ 566 | 2019-08-23 | — | ❌ No |
 | [Google-Image-Scraper](https://github.com/ohyicong/Google-Image-Scraper) | ⭐ 464 | 2025-02-16 | — | ✅ Yes |
 | [googlemaps-scraper](https://github.com/gaspa93/googlemaps-scraper) | ⭐ 443 | 2025-04-07 | — | ✅ Yes |
-| [Google-EmailScraper](https://github.com/kennyledet/Google-EmailScraper) | ⭐ 105 | 2019-06-20 | — | ✅ Yes |
-| [google-news-scraper](https://github.com/philipperemy/google-news-scraper) | ⭐ 96 | 2021-05-07 | — | ✅ Yes |
-| [SearchCAM](https://github.com/AngelSecurityTeam/SearchCAM) | ⭐ 64 | 2020-10-19 | — | ✅ Yes |
-| [google_news_scraper_and_sentiment_analyzer](https://github.com/pratikpv/google_news_scraper_and_sentiment_analyzer) | ⭐ 56 | 2022-02-27 | — | ✅ Yes |
-| [GoogleNewsScraper](https://github.com/GeminidSystems/GoogleNewsScraper) | ⭐ 11 | 2022-02-28 | — | ✅ Yes |
-| [googlenews-scraper](https://github.com/HamzehJaafar/googlenews-scraper) | ⭐ 8 | 2020-04-02 | — | ✅ Yes |
-| [news-sentiment](https://github.com/austince/news-sentiment) | ⭐ 7 | 2018-04-21 | — | ✅ Yes |
+| [Google-EmailScraper](https://github.com/kennyledet/Google-EmailScraper) | ⭐ 105 | 2019-06-20 | — | ❌ No |
+| [google-news-scraper](https://github.com/philipperemy/google-news-scraper) | ⭐ 96 | 2021-05-07 | — | ❌ No |
+| [SearchCAM](https://github.com/AngelSecurityTeam/SearchCAM) | ⭐ 64 | 2020-10-19 | — | ❌ No |
+| [google_news_scraper_and_sentiment_analyzer](https://github.com/pratikpv/google_news_scraper_and_sentiment_analyzer) | ⭐ 56 | 2022-02-27 | — | ❌ No |
+| [GoogleNewsScraper](https://github.com/GeminidSystems/GoogleNewsScraper) | ⭐ 11 | 2022-02-28 | — | ❌ No |
+| [googlenews-scraper](https://github.com/HamzehJaafar/googlenews-scraper) | ⭐ 8 | 2020-04-02 | — | ❌ No |
+| [news-sentiment](https://github.com/austince/news-sentiment) | ⭐ 7 | 2018-04-21 | — | ❌ No |
 
 
 ### Unknown
@@ -139,7 +139,7 @@ Know a Google scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
