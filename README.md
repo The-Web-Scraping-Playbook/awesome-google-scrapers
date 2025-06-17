@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Google OpsKit
-> Find out everything you need to know to reliably scrape Google with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/google)
+> Find out everything you need to know to reliably scrape Google with our new tool: [Ops Kit](https://scrapeops.io/websites/google)
 
 This kit provides the blueprint for Google scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -137,7 +137,7 @@ This kit provides the blueprint for Google scraping operations:
 ---
 
 ## 🧠 Google Tutorials & How-Tos<a id="google-tutorials"></a>
-- 📘 [How to Scrape Google at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-google/)
+- 📘 [How to Scrape Google at Scale](https://scrapeops.io/websites/google/how-to-scrape-google)
 - 🔐 [Web Scraping Google Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
