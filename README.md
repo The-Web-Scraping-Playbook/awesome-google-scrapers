@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Google OpsKit
-> Find out everything you need to know to reliably scrape Google with our new tool: [Ops Kit](https://scrapeops.io/websites/google)
+## 🧠 Google Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Google with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/google)
 
-This kit provides the blueprint for Google scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Google scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -163,7 +163,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Google scraper, web scraping, google API, python scraper, playwright, data scraping, anti-bot, github, open-source google crawler, ScrapeOps
-
 
 ---
 
